@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sbq:home|Door43 (sbq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sbq|d43-sbq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sbq/archive/master.zip|d43-sbq.zip]]
+
+**Recent Changes**
+{{changes>ns = sbq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sbq|Ethnologue data]]
+
